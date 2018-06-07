@@ -17,17 +17,18 @@
 @import "bootstrap";
 
 body {
-  background-image: url("http://getwallpapers.com/wallpaper/full/e/8/5/25971.jpg");
+  // background-image: url("http://getwallpapers.com/wallpaper/full/e/8/5/25971.jpg");
   background-size: contain;
   // background-repeat: no-repeat;
 
-	// background: #AA4847;
+	background: #AA4847;
 }
 
 .review_title {
 	margin: 0 0 20px 0;
 }
 .reviews {
+
 	padding: 15px 0;
 	border-bottom: 1px solid #EAEAEA;
 	.star-rating {
